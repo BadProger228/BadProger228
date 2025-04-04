@@ -34,9 +34,7 @@
 ### 📫 Contact Me
 
 <p align="left">
-  <a href="mailto:serbia.nestandart@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Click to Write-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button"/>
-  </a>
+  <img src="https://img.shields.io/badge/Gmail-serbia.nestandart@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </p>
 
 <p align="left">
