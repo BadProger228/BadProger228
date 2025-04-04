@@ -1,58 +1,55 @@
-<h1 align="center">Hi, I'm a Software Engineering Student 👋</h1>
+# 👋 Hello, I'm a Software Engineering Student from KPI
 
-<p align="center">
-  📍 Kyiv Polytechnic Institute &nbsp;|&nbsp; 🇺🇦 Based in Ukraine <br/>
-  🎯 Aspiring <strong>Back-end C# Developer</strong> <br/>
+Welcome to my GitHub profile! I'm currently studying **Software Engineering** at **Kyiv Polytechnic Institute**. I’m passionate about creating smart, functional applications and experimenting with new technologies. While my GitHub activity may be irregular, it's because I mainly use it as a platform to showcase the best of my work.
+
+---
+
+## 🚀 I'm looking for a position as a **C# Back-End Developer**
+
+I love solving technical challenges and building robust systems. Most of my projects focus on desktop applications, data processing, and practical tools that are actually usable. I try to write clean, maintainable code and enjoy learning better ways to structure and optimize my applications.
+
+---
+
+## 🧠 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/WinForms-00599C?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/XML-E44D26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 📂 Student Projects
 
-- 👨‍💻 I'm currently studying **Software Engineering** at **KPI**
-- 💼 Actively seeking a position as a **C# Back-End Developer**
-- 📂 I use GitHub mostly to publish and showcase my student projects
-- 🧠 I work with technologies like **C#**, **Python**, **SQL**, **XML**, and more
-- 🛠️ Passionate about building **engineering-focused tools**, **neural networks**, and even my **own programming language**
+I’ve developed a variety of student projects — from voice assistants and neural network predictors to internal data editors and automation tools. You can check them all in my pinned repositories.
 
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/WinForms-000000?style=for-the-badge&logo=windows&logoColor=white" alt="WinForms" />
-  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/XML-E34F26?style=for-the-badge&logo=w3c&logoColor=white" alt="XML" />
-</p>
+Some highlights:
+- ✅ Voice Assistant (WinForms and ASP.NET versions)
+- ✅ File builder for EnergyPlus
+- ✅ Weather predictor using ML (Python)
+- ✅ Simple compiler for a custom programming language
+- ✅ Project deadline notifier
 
 ---
 
-### 📫 Contact Me
+## 📫 Contact Me
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Gmail-serbia.nestandart@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<p>
+  <img src="https://img.shields.io/badge/Email-serbia.nestandart@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Phone-+1%20438%20507%201874-007AFF?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
-<p align="left">
-  📱 <strong>Phone:</strong> +1 (438) 507‑1874
-</p>
+Feel free to reach out if you think I'd be a good fit for your team or project — I'm always open to learning opportunities and collaborations.
 
 ---
 
-### 🧠 GitHub Stats & Contributions
+> ⚡ "I build projects not just to learn — but to make them work, useful and functional."
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark&hide_rank=true" />
-</p>
+Thank you for visiting!
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=github-dark"/>
-</p>
-
----
-
-📝 *Note:* My contribution graph might look inconsistent — I don’t always commit daily, but when I do, I ship a lot of code at once!
