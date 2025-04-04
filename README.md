@@ -20,16 +20,13 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WinForms-000000?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XML-E34F26?style=for-the-badge&logo=w3c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/WinForms-000000?style=for-the-badge&logo=windows&logoColor=white" alt="WinForms" />
+  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/XML-E34F26?style=for-the-badge&logo=w3c&logoColor=white" alt="XML" />
 </p>
 
 ---
@@ -38,12 +35,12 @@
 
 <p align="left">
   <a href="mailto:serbia.nestandart@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Click to Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Click to Write-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button"/>
   </a>
 </p>
 
 <p align="left">
-  📱 <strong>Phone:</strong> <a href="tel:+14385071874">+1 (438) 507‑1874</a>
+  📱 <strong>Phone:</strong> +1 (438) 507‑1874
 </p>
 
 ---
