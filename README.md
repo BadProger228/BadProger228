@@ -42,7 +42,10 @@ Some highlights:
 
 <p>
   <img src="https://img.shields.io/badge/Email-serbia.nestandart@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/Phone-+1%20438%20507%201874-007AFF?style=for-the-badge&logo=apple&logoColor=white" />
+
+</p>
+<p align="left">
+  📱 <strong>Phone:</strong> <a href="tel:+14385071874">+1 (438) 507‑1874</a>
 </p>
 
 Feel free to reach out if you think I'd be a good fit for your team or project — I'm always open to learning opportunities and collaborations.
