@@ -42,7 +42,9 @@ Some highlights:
 
 <p>
   <img src="https://img.shields.io/badge/Email-serbia.nestandart@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-
+   <a href="https://www.linkedin.com/in/illia-serbin/">
+    <img src="https://img.shields.io/badge/LinkedIn-Illia%20Serbin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 <p align="left">
   📱 <strong>Phone:</strong> <a href="tel:+14385071874">+1 (438) 507‑1874</a>
