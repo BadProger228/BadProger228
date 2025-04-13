@@ -56,5 +56,4 @@ Feel free to reach out if you think I'd be a good fit for your team or project �
 
 > ⚡ "I build projects not just to learn — but to make them work, useful and functional."
 
-Thank you for visiting!
 
